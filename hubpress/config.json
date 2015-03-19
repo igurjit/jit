@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "igurjit",
-    "repositoryName": "jit",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"igurjit","repositoryName":"jit","branch":"gh-pages","cname":"singh.eu.org"},"site":{"title":"Gurjit Singh","url":"http://singh.eu.org"},"socialnetwork":{},"theme":{"name":"Casper","url":"//igurjit.github.io/jit/themes/Casper"}}
